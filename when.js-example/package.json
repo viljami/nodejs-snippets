@@ -1,0 +1,25 @@
+{
+  "name": "When.js-example",
+  "preferGlobal": false,
+  "version": "0.0.3",
+  "author": "Viljami Peltola <contact@viljamipeltola.com>",
+  "description": "For understanding promises.",
+  "contributors": [
+    {
+      "name": "Viljami Peltola",
+      "email": "contact@viljamipeltola.com"
+    }
+  ],
+  "dependencies": {
+    "when": "2.1.x"
+  },
+  "keywords": [
+    "promises",
+    "example"
+  ],
+  "analyze": false,
+  "license": "Apache2.0",
+  "engines": {
+    "node": ">=10.0"
+  }
+}
