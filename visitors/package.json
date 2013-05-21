@@ -1,0 +1,28 @@
+{
+  "name": "Visitors",
+  "preferGlobal": false,
+  "version": "0.0.3",
+  "author": "Viljami Peltola <contact@viljamipeltola.com>",
+  "description": "Visitors are yellow, you are green. Everyone at your screen on the same time.",
+  "contributors": [
+    {
+      "name": "Viljami Peltola",
+      "email": "contact@viljamipeltola.com"
+    }
+  ],
+  "dependencies": {
+    "express": "3.2.x",
+    "socket.io": "0.9.x",
+    "mongoose": "3.5.x"
+  },
+  "keywords": [
+    "socket.io",
+    "simple",
+    "example"
+  ],
+  "analyze": false,
+  "license": "Apache2.0",
+  "engines": {
+    "node": ">=10.0"
+  }
+}
