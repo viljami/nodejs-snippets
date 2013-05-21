@@ -1,0 +1,26 @@
+{
+  "name": "Simple-Socket.io-Example",
+  "preferGlobal": false,
+  "version": "0.0.3",
+  "author": "Viljami Peltola <contact@viljamipeltola.com>",
+  "description": "Server emits data through socket and client replies.",
+  "contributors": [
+    {
+      "name": "Viljami Peltola",
+      "email": "contact@viljamipeltola.com"
+    }
+  ],
+  "dependencies": {
+    "express": "3.2.x",
+    "socket.io": "0.9.x"
+  },
+  "keywords": [
+    "socket.io",
+    "simple",
+    "example"
+  ],
+  "analyze": false,
+  "engines": {
+    "node": ">=10.0"
+  }
+}

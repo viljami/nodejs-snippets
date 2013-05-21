@@ -1,0 +1,7 @@
+{
+	"Name": "Nodejs-Snippets",
+	"Author": "Viljami Peltola",
+	"scripts": {
+		"mongo-repair": "node scripts/mongodb-repair.js &"
+	}
+}
