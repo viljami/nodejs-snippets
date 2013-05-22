@@ -1,0 +1,19 @@
+{
+  "meteor": {
+    "git": "https://github.com/meteor/meteor.git",
+    "branch": "master",
+    "commit": "5d736d4bf0448c7db1f9b47124dfafc34a9631bb"
+  },
+  "dependencies": {
+    "basePackages": {
+      "when": {}
+    },
+    "packages": {
+      "when": {
+        "git": "https://github.com/awwx/meteor-when",
+        "tag": "v1.7.1r1",
+        "commit": "7a5da1838b1ee0c732ecf0b4dd19c502e17af183"
+      }
+    }
+  }
+}

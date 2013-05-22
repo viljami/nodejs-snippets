@@ -1,0 +1,7 @@
+<template name="visitors">
+	<div class="playfield">
+{{#each visitors}}
+	<div id="{{_id}}" class="{{#if isVisitor _id}}visitor{{else}}me{{/if}}" style="left:{{position.x}}px;top:{{position.y}}px;"></div>
+{{/each}}
+	</div>
+</template>
