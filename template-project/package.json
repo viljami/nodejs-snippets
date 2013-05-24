@@ -1,0 +1,24 @@
+{
+  "name": "Template-project",
+  "preferGlobal": false,
+  "version": "0.0.1",
+  "author": "Viljami Peltola <contact@viljamipeltola.com>",
+  "description": "Project skeleton.",
+  "contributors": [
+    {
+      "name": "Viljami Peltola",
+      "email": "contact@viljamipeltola.com"
+    }
+  ],
+  "dependencies": {
+    "express": "3.2.x"
+  },
+  "keywords": [
+    "template"
+  ],
+  "analyze": false,
+  "licence": "Apache2.0",
+  "engines": {
+    "node": ">=10.0"
+  }
+}
