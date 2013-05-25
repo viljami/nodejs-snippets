@@ -29,6 +29,8 @@ Popular Nodejs modules tested and combined with each other. Each project is runn
  * [JSDom](https://github.com/tmpvar/jsdom) - DOM testing
  * [Expect.js](https://github.com/LearnBoost/expect.js/) - Behavior-driven development assertion toolkit
 
+ * https://github.com/vote539/socketio-file-upload
+
 ## Licence
 
 Copyright 2013  Viljami Peltola
