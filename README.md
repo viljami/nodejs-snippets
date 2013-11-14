@@ -31,6 +31,8 @@ Popular Nodejs modules tested and combined with each other. Each project is runn
 
  * https://github.com/vote539/socketio-file-upload
 
+Note to self: Browserify ads an annoying compilation step. Minimize amount of steps.
+
 ## Licence
 
 Copyright 2013  Viljami Peltola

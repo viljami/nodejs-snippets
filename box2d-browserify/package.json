@@ -1,0 +1,42 @@
+{
+  "name": "box2d-browserify",
+  "preferGlobal": false,
+  "version": "0.0.1",
+  "author": "Viljami Peltola <viljami.peltola@iki.fi>",
+  "description": "Box2d examples on JS from Emanuele",
+  "contributors": [
+    {
+      "name": "Viljami Peltola",
+      "email": "viljami.peltola@iki.fi"
+    }
+  ],
+  "main": "./server/server.js",
+  "keywords": [
+    "box2dweb",
+    "box2d",
+    "browserify"
+  ],
+  "dependencies": {
+    "express": "3.4.x",
+    "browserify": "2.34.x",
+    "delve": "0.3.x",
+    "lodash": "2.2.x",
+    "q": "0.9.x",
+    "jquery-browserify": "1.8.x",
+    "backbone": "1.1.x",
+    "box2dweb": "2.1.x",
+    "three": "0.58.x"
+  },
+  "analyze": false,
+  "devDependencies": {
+    "grunt": "0.4.x",
+    "grunt-contrib-uglify": "0.2.x",
+    "grunt-contrib-watch": "0.5.x",
+    "grunt-contrib-jshint": "0.6.x",
+    "grunt-browserify": "1.2.x"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=0.10.x"
+  }
+}
