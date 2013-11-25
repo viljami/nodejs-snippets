@@ -1,0 +1,6 @@
+Todo:
+
+- gameloop
+- canvas
+- canvas adding and removing
+- box drawing
