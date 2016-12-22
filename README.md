@@ -25,7 +25,7 @@ Popular Nodejs modules tested and combined with each other. Each project is runn
  * [Connect.js](https://github.com/senchalabs/Connect) - Web app framework
  * [Mongoose](http://mongoosejs.com/)  - Mongodb object modeling
  * [Socket.io](http://socket.io/) - Realtime apps in every browser and mobile device
- * [Mocha](http://visionmedia.github.io/mocha/) - Test framework
+ * [Mocha](http://mochajs.org/) - Test framework
  * [JSDom](https://github.com/tmpvar/jsdom) - DOM testing
  * [Expect.js](https://github.com/LearnBoost/expect.js/) - Behavior-driven development assertion toolkit
 
